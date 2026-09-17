@@ -61,3 +61,25 @@ ExamGuard/
 ├── static/
 ├── tests/
 └── README.md
+
+Testing
+
+The project includes functional testing, authentication testing, camera and face-detection testing, suspicious-event detection testing, warning-system testing, integrity-score testing, risk-classification testing, dashboard testing, data-export testing, AI-report testing, and end-to-end workflow testing.
+
+Documentation
+
+The repository includes the following project documentation:
+
+Project Documentation
+Agile Documentation
+Agile Template
+Defect Tracker
+Unit Test Plan
+Testing Results
+Project Status
+
+The core ExamGuard modules have been implemented and tested. The project includes examination monitoring, integrity analysis, analytics, reporting, and testing components. Deployment preparation is part of the project work.
+
+Author
+
+Revu Siri Harshini
